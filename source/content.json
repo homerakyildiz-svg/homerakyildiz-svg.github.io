@@ -1,0 +1,388 @@
+{
+  "name": "Ömer Akyıldız",
+  "full_name": "Hacı Ömer Akyıldız",
+  "email": "homerakyildiz@gmail.com",
+  "scholar": "https://scholar.google.com/citations?user=vQJAEMMAAAAJ&hl=en",
+  "orcid": "https://orcid.org/0000-0002-2280-3002",
+  "updated": "2026-10-21",
+  "languages": {
+    "en": {
+      "role": "Economic historian",
+      "description": "Ömer Akyıldız is an economic historian of the late Ottoman Empire, researching state capacity, bureaucratic institutions, labour markets and human capital.",
+      "bio": [
+        "I am an economic historian of the late Ottoman Empire. My research examines state capacity, bureaucratic institutions, labour markets and human capital.",
+        "Using quantitative methods and large-scale historical datasets, I study institutional transformation, public employment, wage structures and career mobility during Ottoman modernisation."
+      ],
+      "interests": [
+        "Economic history",
+        "Bureaucratic institutions",
+        "Ottoman state capacity",
+        "Historical labour markets",
+        "Human capital"
+      ],
+      "interest_label": "Research interests",
+      "nav": [
+        "About",
+        "Research",
+        "Background",
+        "Talks & service",
+        "Contact"
+      ],
+      "skip": "Skip to content",
+      "menu": "Menu",
+      "nav_label": "Main navigation",
+      "language_label": "Language",
+      "cv": "Curriculum vitae",
+      "cv_download": "Download CV (PDF)",
+      "cv_view": "View CV",
+      "research": "Research",
+      "articles": "Journal articles",
+      "publisher": "Publisher",
+      "doi": "DOI",
+      "other": "Book chapters & other writing",
+      "manuscripts": "Current research",
+      "working": "Working paper",
+      "review": "Manuscript under review",
+      "background": "Academic background",
+      "appointments": "Appointments",
+      "education": "Education",
+      "talks": "Talks & conferences",
+      "talks_note": "Selected presentations and invited talks.",
+      "event_link": "Event details",
+      "service": "Academic service",
+      "service_text": [
+        "Co-organiser of Medrese Talks (2023–2024), an international online lecture series on Islamic and Ottoman intellectual history at the Fatih Sahn-ı Semân Education and Research Center.",
+        "Organising committee member for the Medrese and Ulema Studies training programmes in 2020 and 2021."
+      ],
+      "contact": "Contact",
+      "contact_text": "For academic correspondence, please email me.",
+      "copy": "Copy email",
+      "copied": "Email address copied.",
+      "copy_failed": "Please select the email address to copy it.",
+      "portrait_alt": "Portrait of Ömer Akyıldız",
+      "portrait_caption": "Ömer Akyıldız",
+      "updated_label": "Updated October 2026",
+      "top": "Back to top",
+      "print": "Print / save as PDF",
+      "back": "Back to website",
+      "cv_note": "Public academic CV",
+      "full_name_note": "Also published as Hacı Ömer Akyıldız.",
+      "book_link": "Publisher’s edition",
+      "awards": "Scholarships & honours",
+      "award_text": [
+        "Turkish Government merit-based scholarship for master’s study in the United Kingdom (2010).",
+        "Ranked first in the MA programme in Economic History, Marmara University."
+      ]
+    },
+    "tr": {
+      "role": "İktisat tarihçisi",
+      "description": "Ömer Akyıldız, geç Osmanlı dönemi, devlet kapasitesi, bürokratik kurumlar, emek piyasaları ve beşerî sermaye üzerine çalışan bir iktisat tarihçisidir.",
+      "bio": [
+        "Geç Osmanlı dönemi üzerine çalışan bir iktisat tarihçisiyim. Araştırmalarım devlet kapasitesi, bürokratik kurumlar, emek piyasaları ve beşerî sermayeye odaklanıyor.",
+        "Osmanlı modernleşmesi sürecindeki kurumsal dönüşümü, kamu istihdamını, ücret yapılarını ve kariyer hareketliliğini nicel yöntemler ve geniş ölçekli tarihsel veri setleriyle inceliyorum."
+      ],
+      "interests": [
+        "İktisat tarihi",
+        "Bürokratik kurumlar",
+        "Osmanlı’da devlet kapasitesi",
+        "Tarihsel emek piyasaları",
+        "Beşerî sermaye"
+      ],
+      "interest_label": "Araştırma alanları",
+      "nav": [
+        "Hakkımda",
+        "Araştırmalar",
+        "Akademik geçmiş",
+        "Konuşmalar",
+        "İletişim"
+      ],
+      "skip": "İçeriğe geç",
+      "menu": "Menü",
+      "nav_label": "Ana menü",
+      "language_label": "Dil",
+      "cv": "Özgeçmiş",
+      "cv_download": "Özgeçmişi indir (PDF)",
+      "cv_view": "Özgeçmiş",
+      "research": "Araştırmalar",
+      "articles": "Dergi makaleleri",
+      "publisher": "Dergi sayfası",
+      "doi": "DOI",
+      "other": "Kitap bölümleri ve diğer yazılar",
+      "manuscripts": "Devam eden araştırmalar",
+      "working": "Çalışma metni",
+      "review": "Değerlendirme sürecindeki makale",
+      "background": "Akademik geçmiş",
+      "appointments": "Akademik görevler",
+      "education": "Eğitim",
+      "talks": "Konuşmalar ve konferanslar",
+      "talks_note": "Seçilmiş sunumlar ve davetli konuşmalar.",
+      "event_link": "Etkinlik bilgisi",
+      "service": "Akademik hizmet",
+      "service_text": [
+        "Fatih Sahn-ı Semân Eğitim ve Araştırma Merkezi bünyesinde İslam ve Osmanlı düşünce tarihi üzerine düzenlenen uluslararası çevrim içi Medrese Talks konuşma dizisinin eş düzenleyicisi (2023–2024).",
+        "2020 ve 2021 yıllarında düzenlenen Medrese ve Ulemâ Çalışmaları eğitim programlarının düzenleme kurulu üyesi."
+      ],
+      "contact": "İletişim",
+      "contact_text": "Akademik yazışmalarınız için bana e-posta ile ulaşabilirsiniz.",
+      "copy": "E-postayı kopyala",
+      "copied": "E-posta adresi kopyalandı.",
+      "copy_failed": "Kopyalamak için e-posta adresini seçebilirsiniz.",
+      "portrait_alt": "Ömer Akyıldız’ın portresi",
+      "portrait_caption": "Ömer Akyıldız",
+      "updated_label": "Son güncelleme: Ekim 2026",
+      "top": "Başa dön",
+      "print": "Yazdır / PDF olarak kaydet",
+      "back": "Web sitesine dön",
+      "cv_note": "Akademik özgeçmiş",
+      "full_name_note": "Yayınlarında Hacı Ömer Akyıldız adını da kullanmaktadır.",
+      "book_link": "Yayınevinin dijital nüshası",
+      "awards": "Burslar ve başarılar",
+      "award_text": [
+        "Birleşik Krallık’ta yüksek lisans öğrenimi için Türkiye Cumhuriyeti Millî Eğitim Bakanlığı başarı bursu (2010).",
+        "Marmara Üniversitesi İktisat Tarihi yüksek lisans programı birinciliği."
+      ]
+    }
+  },
+  "articles": [
+    {
+      "year": "2026",
+      "title": "Son Dönem Osmanlı Bürokrasisinde Himaye ve Kariyer: Posta ve Telgraf Nazırı Hasan Ali Efendi ve Oğulları",
+      "title_lang": "tr",
+      "english_title": "Patronage and Career in the Late Ottoman Bureaucracy: Minister of Posts and Telegraphs Hasan Ali Efendi and His Sons",
+      "authors": "Hacı Ömer Akyıldız",
+      "venue": "Kadim, 12, 171–188",
+      "doi": "https://doi.org/10.54462/kadim.1897502",
+      "url": "https://dergipark.org.tr/en/pub/kadim/article/1897502"
+    },
+    {
+      "year": "2026",
+      "title": "Human Capital and Wages in the Late Ottoman Bureaucracy: A Descriptive and Regression Analysis",
+      "title_lang": "en",
+      "authors": "Hacı Ömer Akyıldız",
+      "venue": "İstanbul Journal of Economics, 76(1), 149–171",
+      "doi": "https://doi.org/10.26650/ISTJECON2025-1799729",
+      "url": "https://iupress.istanbul.edu.tr/journal/ije/article/human-capital-and-wages-in-the-late-ottoman-bureaucracy-a-descriptive-and-regression-analysis?id=1661932"
+    },
+    {
+      "year": "2026",
+      "title": "Osmanlı Memurlarının İncelenmesinde Büyük Veri",
+      "title_lang": "tr",
+      "english_title": "Big Data Approaches to the Study of Ottoman State Officials",
+      "authors": "Hacı Ömer Akyıldız, Abdülhamit Kırmızı",
+      "venue": "Tarih Dergisi / Turkish Journal of History, 89, 221–245",
+      "doi": "https://doi.org/10.26650/iutd.1801116",
+      "url": "https://dergipark.org.tr/en/pub/iutarih/article/1801116"
+    }
+  ],
+  "manuscripts": [
+    {
+      "title": "Pricing Human Capital in a Modernizing State: Education and Skill Premia in the Ottoman Civil Service",
+      "status": "working"
+    },
+    {
+      "title": "State Capacity Paradox: Can State Expansion Empower Political Opposition?",
+      "status": "review"
+    }
+  ],
+  "chapters": [
+    {
+      "year": "2021",
+      "title": "Gazâlî ve Adam Smith’in Paranın Gerekliliği Konusundaki Görüşleri Üzerine Bir Değerlendirme",
+      "title_lang": "tr",
+      "authors": "Ömer Akyıldız",
+      "venue": "Sabri Orman’ı Anlamak: Bir Mütefekkirin Düşünce Dünyasının İzinde. Mehmet Babacan & Ahmet Faruk Aysan (eds.). İstanbul Ticaret Odası, 247–262",
+      "url": "https://online.fliphtml5.com/kkfkn/uztv/"
+    },
+    {
+      "year": "2021",
+      "title": "Umurfakı Kazası Örneğinden Hareketle Osmanlı Balkanlarında Zirai Sektörün Ticarileşebilme Olanakları Üzerine Bir İnceleme (1844–45)",
+      "title_lang": "tr",
+      "authors": "Ömer Akyıldız",
+      "venue": "Balkan Tarihi Araştırmaları I. Bülent Akyay (ed.). Trakya Üniversitesi Balkan Araştırma Enstitüsü Yayınları, 97–124"
+    },
+    {
+      "year": "2015",
+      "title": "Bir İktisat Tarihçisi: Mehmet Genç",
+      "title_lang": "tr",
+      "authors": "Ömer Akyıldız",
+      "venue": "Türkiye’nin Birikimleri: Tarihçiler. İlke Yayıncılık"
+    },
+    {
+      "year": "2014",
+      "title": "Sezai Karakoç’ta İslam ve İktisat",
+      "title_lang": "tr",
+      "authors": "Ömer Akyıldız",
+      "venue": "Kahramanmaraş’ta Sezai Karakoç Sempozyumu. Cevdet Kabakcı & Serdar Yakar (eds.). Kahramanmaraş Belediyesi"
+    }
+  ],
+  "appointments": [
+    {
+      "dates": "2025–2026",
+      "en": {
+        "title": "Postdoctoral Visiting Scholar",
+        "place": "Department of Economics, University of Connecticut"
+      },
+      "tr": {
+        "title": "Doktora Sonrası Misafir Araştırmacı",
+        "place": "University of Connecticut, İktisat Bölümü"
+      }
+    },
+    {
+      "dates": "2020–2023",
+      "en": {
+        "title": "Lecturer",
+        "place": "Balkan Research Institute, Trakya University"
+      },
+      "tr": {
+        "title": "Öğretim Görevlisi",
+        "place": "Trakya Üniversitesi Balkan Araştırma Enstitüsü"
+      }
+    }
+  ],
+  "education": [
+    {
+      "dates": "2018–2024",
+      "en": {
+        "title": "PhD in Economic History",
+        "place": "Marmara University"
+      },
+      "tr": {
+        "title": "İktisat Tarihi Doktorası",
+        "place": "Marmara Üniversitesi"
+      }
+    },
+    {
+      "dates": "2016–2018",
+      "en": {
+        "title": "MA in History",
+        "place": "University of Leicester",
+        "detail": "With Merit"
+      },
+      "tr": {
+        "title": "Tarih Yüksek Lisansı",
+        "place": "University of Leicester",
+        "detail": "Merit derecesiyle"
+      }
+    },
+    {
+      "dates": "2010–2012",
+      "en": {
+        "title": "MA in Economic History",
+        "place": "Marmara University",
+        "detail": "Ranked first in the programme"
+      },
+      "tr": {
+        "title": "İktisat Tarihi Yüksek Lisansı",
+        "place": "Marmara Üniversitesi",
+        "detail": "Bölüm birinciliği"
+      }
+    },
+    {
+      "dates": "2005–2009",
+      "en": {
+        "title": "BA in Economics",
+        "place": "Marmara University"
+      },
+      "tr": {
+        "title": "İktisat Lisansı",
+        "place": "Marmara Üniversitesi"
+      }
+    }
+  ],
+  "talks": [
+    {
+      "date": "2026-06-13",
+      "en": {
+        "date": "13 June 2026",
+        "title": "Middle and Lower Ranking Officials: Postal and Telegraph Employees in the Ottoman Empire",
+        "event": "BİSAV, invited talk"
+      },
+      "tr": {
+        "date": "13 Haziran 2026",
+        "title": "Osmanlı İmparatorluğu’nda Orta ve Alt Düzey Memurlar: Posta ve Telgraf Çalışanları",
+        "event": "BİSAV, davetli konuşma"
+      }
+    },
+    {
+      "date": "2026-01-09",
+      "en": {
+        "date": "9 January 2026",
+        "title": "Ottoman State Capacity: Postal and Telegraph Network Expansion (1840–1910)",
+        "event": "New Perspectives on Middle Eastern Economic History, Industrial History Review online workshop"
+      },
+      "tr": {
+        "date": "9 Ocak 2026",
+        "title": "Ottoman State Capacity: Postal and Telegraph Network Expansion (1840–1910)",
+        "event": "New Perspectives on Middle Eastern Economic History, Industrial History Review çevrim içi çalıştayı"
+      },
+      "url": "https://revistes.ub.edu/index.php/HistoriaIndustrial/announcement/view/963"
+    },
+    {
+      "date": "2025-11-22",
+      "en": {
+        "date": "22 November 2025",
+        "title": "Beyond Birthplace: Geographic Mobility during Ottoman Modernization",
+        "event": "Middle East Studies Association (MESA), Washington, DC. Panel: Borderlands and Belonging: Conflict and Mobility in the Modern Middle East"
+      },
+      "tr": {
+        "date": "22 Kasım 2025",
+        "title": "Beyond Birthplace: Geographic Mobility during Ottoman Modernization",
+        "event": "Middle East Studies Association (MESA), Washington, DC. Panel: Borderlands and Belonging: Conflict and Mobility in the Modern Middle East"
+      }
+    },
+    {
+      "date": "2025-11-05",
+      "en": {
+        "date": "5 November 2025",
+        "title": "Transforming Sicill-i Ahvâl Registers into Structured Data: A Data-Mining Approach to Ottoman Civil Servants",
+        "event": "Digital Humanities Meetings (DBB-21), Marmara University Digital Humanities Research Center, invited online talk"
+      },
+      "tr": {
+        "date": "5 Kasım 2025",
+        "title": "Sicill-i Ahvâl Defterlerinden Yapılandırılmış Veriye: Osmanlı Memurlarına Veri Madenciliği Yaklaşımı",
+        "event": "Dijital Beşerî Bilimler Buluşmaları (DBB-21), Marmara Üniversitesi Dijital Beşerî Bilimler Uygulama ve Araştırma Merkezi, çevrim içi davetli konuşma"
+      }
+    },
+    {
+      "date": "2025-01-09",
+      "en": {
+        "date": "9 January 2025",
+        "title": "Ottoman Civil Servants in the Age of Modernization: An Empirical Analysis of Postal and Telegraph Employees",
+        "event": "Müktesebat Meetings 43, Media Literacy Association, invited online talk"
+      },
+      "tr": {
+        "date": "9 Ocak 2025",
+        "title": "Modernleşme Çağında Osmanlı Memurları: Posta ve Telgraf Çalışanları Üzerine Ampirik Bir Analiz",
+        "event": "Müktesebat Buluşmaları 43, Medya Okuryazarlığı Derneği, çevrim içi davetli konuşma"
+      }
+    }
+  ],
+  "talks_extra": [
+    {
+      "date": "2022-11",
+      "en": {
+        "date": "November 2022",
+        "title": "Postal and Telegraph Officers of Darüşşafaka College (1881–1912)",
+        "event": "Postal History Workshop: From Ottoman to Republic"
+      },
+      "tr": {
+        "date": "Kasım 2022",
+        "title": "Darüşşafaka Mektebi Mezunu Posta ve Telgraf Memurları (1881–1912)",
+        "event": "Osmanlı’dan Cumhuriyet’e Posta Tarihi Çalıştayı"
+      }
+    },
+    {
+      "date": "2022-11",
+      "en": {
+        "date": "November 2022",
+        "title": "Analysis of the Income Distribution of Zistovi City from the Temettuat Books Using the Gini Coefficient and Lorenz Curve (1844–45)",
+        "event": "14th International Balkan History Congress"
+      },
+      "tr": {
+        "date": "Kasım 2022",
+        "title": "Temettuat Defterlerine Göre Ziştovi’de Gelir Dağılımının Gini Katsayısı ve Lorenz Eğrisi ile Analizi (1844–45)",
+        "event": "14. Uluslararası Balkan Tarihi Kongresi"
+      }
+    }
+  ]
+}
