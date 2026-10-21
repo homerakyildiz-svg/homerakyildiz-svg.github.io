@@ -1,7 +1,7 @@
 # Updating your website
 
-Publication is pending. Proposed repository: https://github.com/homerakyildiz-svg/homerakyildiz-svg.github.io, branch main, GitHub Pages from /(root).
-Planned English address: https://omer-akyildiz.com/; Turkish: https://omer-akyildiz.com/tr/.
+Repository: https://github.com/homerakyildiz-svg/homerakyildiz-svg.github.io, branch main, GitHub Pages from /(root).
+English address: https://omer-akyildiz.com/; Turkish: https://omer-akyildiz.com/tr/.
 
 1. Ask Codex to open this dedicated website repository and inspect the current Git state.
 2. Change academic text in source/content.json; templates and domain metadata in source/build.py; styling in assets/style.css; interaction in assets/site.js.
@@ -11,7 +11,7 @@ Planned English address: https://omer-akyildiz.com/; Turkish: https://omer-akyil
 6. Review the diff and publication batch. Approve the exact commit/push before Codex publishes.
 7. Verify the Pages deployment and live English/Turkish pages after publication; verify HTTPS and www redirection during initial setup.
 
-Keep .nojekyll, font licenses, public PDFs, and—after verified domain setup—CNAME and GitHub verification TXT. Normal content updates do not need DNS or hosting recreation.
+Keep .nojekyll, font licenses, public PDFs, CNAME and GitHub verification TXT. Normal content updates do not need DNS or hosting recreation.
 For rollback, review `git log`, run `git revert <bad-commit>` and approve/push the revert. Never force-push.
 
 ## Türkçe kısa rehber

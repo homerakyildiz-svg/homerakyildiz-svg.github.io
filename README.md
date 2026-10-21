@@ -1,4 +1,4 @@
-> Deployment is pending. See UPDATE-GUIDE.md for this prepared package and its proposed repository.
+> Repository: https://github.com/homerakyildiz-svg/homerakyildiz-svg.github.io. Publishes from main → /(root) using GitHub Pages. Canonical domain: https://omer-akyildiz.com/. See UPDATE-GUIDE.md for maintenance.
 
 # Ömer Akyıldız academic website
 
